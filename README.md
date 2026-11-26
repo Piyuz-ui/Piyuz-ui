@@ -1,24 +1,32 @@
-# Hi, I'm Piyush 👋
+# Hi, I am Piyush Agrawal! 👋
 
-BCA student specialising in **AI & Data Science** at **KR Mangalam University** (Batch 2026-2030).
-I like collecting data from APIs, cleaning it with pandas and turning it into charts — and I'm learning to do it the engineering way with Linux, Bash and Git.
+## About Me
 
-## 🛠 Skills
+- BCA (AI & Data Science) Student at K.R. Mangalam University, Gurugram (Batch 2026–30)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, Python and pandas
+- Interested in: **Data Science & AI / ML**
 
-| Area | Tools |
+## 🛠 Technical Skills
+
+| Category | Technologies |
 |---|---|
-| Languages | Python, SQL, Bash, HTML/CSS |
-| Data & Visualisation | pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| Developer Tools | Git, GitHub, Linux, curl, jq, VS Code, Google Colab |
-| Databases | MySQL |
+| Languages | Python, Bash / Shell Scripting, SQL, HTML/CSS |
+| Data & Visualisation | pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman, curl, jq, Google Colab |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-## 📂 Projects
+## 📂 Featured Projects
 
-| Project | Description |
-|---|---|
-| [DeveloperPortfolio](https://github.com/Piyuz-ui/DeveloperPortfolio) | Linux docs, Bash automation, REST API work and my portfolio site |
-| [Portfolio website](https://piyuz-ui.github.io/DeveloperPortfolio) | Live GitHub Pages site |
+- [CSE103 Lab — LAB 3](https://github.com/Piyuz-ui/cse103-lab-LAB3) — Git workflows, API interaction, and Markdown documentation
+- [DeveloperPortfolio](https://github.com/Piyuz-ui/DeveloperPortfolio) — Linux docs, Bash automation, REST API work ([live site](https://piyuz-ui.github.io/DeveloperPortfolio))
+- [developer-portfolio](https://github.com/Piyuz-ui/developer-portfolio) — portfolio index, learning roadmap and progress tracker ([live site](https://piyuz-ui.github.io/developer-portfolio))
+- [Skilly](https://github.com/Piyuz-ui/skilly) — learning website built at AARAMBHATHON 2.0 with Team BitShift
 
-## 📫 Connect
+## 🚧 Currently Working On
 
-[LinkedIn](https://www.linkedin.com/in/piyush-agrawal-036159256) · [GitHub](https://github.com/Piyuz-ui)
+- Semester 1 lab projects and building daily problem-solving habits on HackerRank and LeetCode
+
+## 📫 Connect With Me
+
+- LinkedIn : [linkedin.com/in/piyush-agrawal-036159256](https://www.linkedin.com/in/piyush-agrawal-036159256)
+- Email : agrawalpiyush198@gmail.com
